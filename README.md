@@ -1,2 +1,2 @@
-# python-1stclass
+# PYTHON PROGRAMMING
 First class of python(data science)
